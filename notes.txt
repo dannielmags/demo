@@ -11,10 +11,19 @@ force git to not use the file :
     - create file naming ".gitignore";
     - add directory of the files you want to not use "/(directory)"
 
+Branches : 
 "branch" - a storage of commits 
 "main / master branch" - the main storage of finalize files to commit
-
 git checkout -b (branchName) - create and go to a new branch
 git checlout (brachName) - go to a existing branch
 git branch - check all branches from current branch
 git branch -D (branchName) - delete a certain branch
+
+
+Remote Repository :
+    - Create A github Account
+    - Make you Repository
+Commands :
+git remote add origin (repo link) - connect your local repo to online repo
+git branch -M main - rename your main branch to main
+git push -u origin main - push your local repo to online repo
