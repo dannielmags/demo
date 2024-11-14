@@ -12,3 +12,6 @@ git log - check the history of your commits
 force git to not use the file :
     - create file naming ".gitignore";
     - add directory of the files you want to not use "/(directory)"
+
+git checkout -b (branchName) - create and go to a new branch
+git checlout (brachName) - go to a existing branch
