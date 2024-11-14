@@ -13,3 +13,6 @@ force git to not use the file :
 
 "branch" - a storage of commits 
 "main / master branch" - the main storage of finalize files to commit
+
+git checkout -b (branchName) - create and go to a new branch
+git checlout (brachName) - go to a existing branch
