@@ -1,0 +1,2 @@
+basic commands :
+git init - initialize or install a git inside your project
