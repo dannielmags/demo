@@ -16,3 +16,4 @@ force git to not use the file :
 
 git checkout -b (branchName) - create and go to a new branch
 git checlout (brachName) - go to a existing branch
+git branch -D (branchName) - delete a certain branch
