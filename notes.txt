@@ -1,2 +1,10 @@
 basic commands :
 git init - initialize or install a git inside your project
+git status - check the current status of your git
+git add (filename or directory)- add directory / file to the STAGING area
+git add. - add all the files inside your directory to staging area
+"Staging Area" - location where all files are watched by git, pending for pusing
+git commit -m "(message)" - push all the files from the staging area, finalize everything.
+git log - check the history of your commits
+"branch" - a storage of all your commits 
+"main / master branch" - the main storage of finalize files to commit
