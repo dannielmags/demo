@@ -26,5 +26,5 @@ Remote Repository :
 Commands :
 git remote add origin (repo link) - connect your local repo to online repo
 git branch -M main - rename your main branch to main
-git push -u origin main - push your local repo to online repo
+git push ("-u" for first upload) origin main - push your local repo to online repo
 git pull / git pull origin (branchName) - get the latest changes from online repository
