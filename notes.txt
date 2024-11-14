@@ -8,3 +8,7 @@ git commit -m "(message)" - push all the files from the staging area, finalize e
 git log - check the history of your commits
 "branch" - a storage of all your commits 
 "main / master branch" - the main storage of finalize files to commit
+
+force git to not use the file :
+    - create file naming ".gitignore";
+    - add directory of the files you want to not use "/(directory)"
